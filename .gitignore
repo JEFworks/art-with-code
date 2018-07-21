@@ -1,0 +1,5 @@
+_site/
+.git/
+.sass-cache/
+Gemfile*
+*~
