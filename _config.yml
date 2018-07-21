@@ -1,8 +1,8 @@
 # Site settings
 title: Art with Code
 description: Do art like a science. Do science like an art.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+baseurl: /art-with-code # the subpath of your site, e.g. /blog/
+url: https://jef.works/ # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
