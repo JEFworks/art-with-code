@@ -247,24 +247,24 @@ background: $theme-color;
 height: $img_height;
 width: 100%;
 overflow: hidden;
-box-sizing:border-box;
-    padding: $img_spacing;
-    border: 1px solid $grey-color-light;
+    box-sizing:border-box;
+//    padding: $img_spacing;
+//    border: 1px solid $grey-color-light;
 
 }
 .col{ 
 width: 100%;
 height: 100%;
 float: left;
-//object-fit: cover;
+object-fit: cover;
 box-sizing:border-box;
-padding: $img_spacing;
+    padding: $img_spacing;
 }
 .right{
 float: right;
 }
 .one {
-width:33.33%;
+    width:33.33%;
 }
 .two {
 width: 66.66%;
