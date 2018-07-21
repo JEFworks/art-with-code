@@ -74,7 +74,9 @@ display: line;
  * Site footer  **********************************************************
  */
 .site-footer {
-border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $grey-color-light;
+background-color: #fff;
+opacity: 0.75;
 font-size: 12px;
 padding: 2px;
 color: #aaa;
